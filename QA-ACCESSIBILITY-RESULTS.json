@@ -1,0 +1,25 @@
+{
+  "run_at": "2026-08-09T02:35:30+00:00",
+  "engine": "axe-core 4.10.3",
+  "standards": ["wcag2a", "wcag2aa", "wcag21aa", "wcag22aa"],
+  "light_theme": {
+    "automated_violations": 0,
+    "passed_rules": 28,
+    "manual_review": [{"rule": "color-contrast", "nodes": 46, "reason": "Axe could not conclusively evaluate text over gradients, translucent surfaces, or composited backgrounds."}]
+  },
+  "dark_theme": {
+    "automated_violations": 0,
+    "passed_rules": 28,
+    "manual_review": [{"rule": "color-contrast", "nodes": 46, "reason": "Axe could not conclusively evaluate text over gradients, translucent surfaces, or composited backgrounds."}]
+  },
+  "manual_checks": [
+    "Heading sequence contains one H1 followed by H2/H3 hierarchy without skips.",
+    "Skip link is present and visible on keyboard focus.",
+    "All meaningful images have alternative text; the SVG icon sprite is hidden from assistive technology.",
+    "External new-tab links use rel=noopener noreferrer.",
+    "Mobile navigation exposes expanded state, moves focus to the first link, closes with Escape, and unlocks after closure.",
+    "Reduced-motion mode leaves content visible, keeps the original specialist headline static, and disables decorative headline/role/reveal motion.",
+    "Light and dark settled states were visually inspected at desktop and mobile sizes."
+  ],
+  "claim_boundary": "An automated scan with zero detected violations is not a certification of complete WCAG conformance. Gradient/composited contrast and real assistive-technology behavior still require human review."
+}

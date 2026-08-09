@@ -1,0 +1,277 @@
+{
+  "wide": {
+    "viewport": [
+      1920,
+      1080
+    ],
+    "clientWidth": 1905,
+    "scrollWidth": 1905,
+    "overflowX": 0,
+    "title": "Sai Supraja Ravi Kumar | Business Intelligence & Data Analyst",
+    "h1": "Sai Supraja Ravi Kumar specializes in trusted BI systems, executive dashboards, reporting automation, and scalable data models and KPIs.\n            \n              I build trusted BI systems that turn complex data into\n              clear business decisions.",
+    "h1Visible": true,
+    "allRevealContentVisible": true,
+    "brokenImages": [],
+    "projectImages": [
+      [
+        1200,
+        720
+      ],
+      [
+        1200,
+        720
+      ]
+    ],
+    "unsafeBlankLinks": [],
+    "socialLinks": [
+      "mailto:saisupraja294@gmail.com",
+      "https://www.linkedin.com/in/sai-supraja-kumar",
+      "https://github.com/saisupraja25"
+    ],
+    "projectLinks": [
+      "https://github.com/saisupraja25/Strategic_Merger_Operations_Dashboard",
+      "https://github.com/saisupraja25/GenAI_HR_Analytics"
+    ],
+    "resumeHref": "Sai-Supraja-Resume.pdf",
+    "phoneHref": "tel:+13466382828",
+    "linkedInHref": "https://www.linkedin.com/in/sai-supraja-kumar",
+    "menuDisplay": "none",
+    "role": "Business Intelligence Analyst",
+    "reducedMotion": false,
+    "focusableCount": 22,
+    "specialistHeadline": {
+      "before": {
+        "text": "I build trusted BI systems that turn complex data into clear business decisions.",
+        "height": 588
+      },
+      "after": {
+        "text": "I create executive dashboards that drive clearer, faster decisions.",
+        "height": 588,
+        "changing": false
+      },
+      "changed": true,
+      "heightDelta": 0
+    },
+    "menu": {
+      "applicable": false
+    },
+    "theme": {
+      "before": "light",
+      "after": "dark",
+      "pressed": "false",
+      "stored": "dark",
+      "afterReload": "dark"
+    }
+  },
+  "desktop": {
+    "viewport": [
+      1440,
+      900
+    ],
+    "clientWidth": 1425,
+    "scrollWidth": 1425,
+    "overflowX": 0,
+    "title": "Sai Supraja Ravi Kumar | Business Intelligence & Data Analyst",
+    "h1": "Sai Supraja Ravi Kumar specializes in trusted BI systems, executive dashboards, reporting automation, and scalable data models and KPIs.\n            \n              I build trusted BI systems that turn complex data into\n              clear business decisions.",
+    "h1Visible": true,
+    "allRevealContentVisible": true,
+    "brokenImages": [],
+    "projectImages": [
+      [
+        1200,
+        720
+      ],
+      [
+        1200,
+        720
+      ]
+    ],
+    "unsafeBlankLinks": [],
+    "socialLinks": [
+      "mailto:saisupraja294@gmail.com",
+      "https://www.linkedin.com/in/sai-supraja-kumar",
+      "https://github.com/saisupraja25"
+    ],
+    "projectLinks": [
+      "https://github.com/saisupraja25/Strategic_Merger_Operations_Dashboard",
+      "https://github.com/saisupraja25/GenAI_HR_Analytics"
+    ],
+    "resumeHref": "Sai-Supraja-Resume.pdf",
+    "phoneHref": "tel:+13466382828",
+    "linkedInHref": "https://www.linkedin.com/in/sai-supraja-kumar",
+    "menuDisplay": "none",
+    "role": "Business Intelligence Analyst",
+    "reducedMotion": false,
+    "focusableCount": 22,
+    "specialistHeadline": {
+      "before": {
+        "text": "I build trusted BI systems that turn complex data into clear business decisions.",
+        "height": 530
+      },
+      "after": {
+        "text": "I create executive dashboards that drive clearer, faster decisions.",
+        "height": 530,
+        "changing": false
+      },
+      "changed": true,
+      "heightDelta": 0
+    },
+    "menu": {
+      "applicable": false
+    },
+    "theme": {
+      "before": "dark",
+      "after": "light",
+      "pressed": "true",
+      "stored": "light",
+      "afterReload": "light"
+    }
+  },
+  "tablet": {
+    "viewport": [
+      768,
+      1024
+    ],
+    "clientWidth": 768,
+    "scrollWidth": 768,
+    "overflowX": 0,
+    "title": "Sai Supraja Ravi Kumar | Business Intelligence & Data Analyst",
+    "h1": "Sai Supraja Ravi Kumar specializes in trusted BI systems, executive dashboards, reporting automation, and scalable data models and KPIs.\n            \n              I build trusted BI systems that turn complex data into\n              clear business decisions.",
+    "h1Visible": true,
+    "allRevealContentVisible": true,
+    "brokenImages": [],
+    "projectImages": [
+      [
+        1200,
+        720
+      ],
+      [
+        1200,
+        720
+      ]
+    ],
+    "unsafeBlankLinks": [],
+    "socialLinks": [
+      "mailto:saisupraja294@gmail.com",
+      "https://www.linkedin.com/in/sai-supraja-kumar",
+      "https://github.com/saisupraja25"
+    ],
+    "projectLinks": [
+      "https://github.com/saisupraja25/Strategic_Merger_Operations_Dashboard",
+      "https://github.com/saisupraja25/GenAI_HR_Analytics"
+    ],
+    "resumeHref": "Sai-Supraja-Resume.pdf",
+    "phoneHref": "tel:+13466382828",
+    "linkedInHref": "https://www.linkedin.com/in/sai-supraja-kumar",
+    "menuDisplay": "grid",
+    "role": "Business Intelligence Analyst",
+    "reducedMotion": true,
+    "focusableCount": 22,
+    "specialistHeadline": {
+      "before": {
+        "text": "I build trusted BI systems that turn complex data into clear business decisions.",
+        "height": 158
+      },
+      "after": {
+        "text": "I build trusted BI systems that turn complex data into clear business decisions.",
+        "height": 158,
+        "changing": false
+      },
+      "changed": false,
+      "heightDelta": 0
+    },
+    "menu": {
+      "applicable": true,
+      "expanded": "true",
+      "open": true,
+      "visibility": "hidden",
+      "bodyLocked": true,
+      "afterDelayState": {
+        "visibility": "visible",
+        "focusedFirst": true
+      },
+      "escapeClosed": true
+    },
+    "theme": {
+      "before": "light",
+      "after": "dark",
+      "pressed": "false",
+      "stored": "dark",
+      "afterReload": "dark"
+    }
+  },
+  "mobile": {
+    "viewport": [
+      390,
+      844
+    ],
+    "clientWidth": 390,
+    "scrollWidth": 390,
+    "overflowX": 0,
+    "title": "Sai Supraja Ravi Kumar | Business Intelligence & Data Analyst",
+    "h1": "Sai Supraja Ravi Kumar specializes in trusted BI systems, executive dashboards, reporting automation, and scalable data models and KPIs.\n            \n              I build trusted BI systems that turn complex data into\n              clear business decisions.",
+    "h1Visible": true,
+    "allRevealContentVisible": true,
+    "brokenImages": [],
+    "projectImages": [
+      [
+        1200,
+        720
+      ],
+      [
+        1200,
+        720
+      ]
+    ],
+    "unsafeBlankLinks": [],
+    "socialLinks": [
+      "mailto:saisupraja294@gmail.com",
+      "https://www.linkedin.com/in/sai-supraja-kumar",
+      "https://github.com/saisupraja25"
+    ],
+    "projectLinks": [
+      "https://github.com/saisupraja25/Strategic_Merger_Operations_Dashboard",
+      "https://github.com/saisupraja25/GenAI_HR_Analytics"
+    ],
+    "resumeHref": "Sai-Supraja-Resume.pdf",
+    "phoneHref": "tel:+13466382828",
+    "linkedInHref": "https://www.linkedin.com/in/sai-supraja-kumar",
+    "menuDisplay": "grid",
+    "role": "Business Intelligence Analyst",
+    "reducedMotion": false,
+    "focusableCount": 22,
+    "specialistHeadline": {
+      "before": {
+        "text": "I build trusted BI systems that turn complex data into clear business decisions.",
+        "height": 302.9999694824219
+      },
+      "after": {
+        "text": "I create executive dashboards that drive clearer, faster decisions.",
+        "height": 303,
+        "changing": false
+      },
+      "changed": true,
+      "heightDelta": 0.000030517578125
+    },
+    "menu": {
+      "applicable": true,
+      "expanded": "true",
+      "open": true,
+      "visibility": "visible",
+      "bodyLocked": true,
+      "afterDelayState": {
+        "visibility": "visible",
+        "focusedFirst": true
+      },
+      "escapeClosed": true
+    },
+    "theme": {
+      "before": "dark",
+      "after": "light",
+      "pressed": "true",
+      "stored": "light",
+      "afterReload": "light"
+    }
+  },
+  "consoleErrors": []
+}

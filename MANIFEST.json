@@ -1,0 +1,84 @@
+{
+  "artifact": "Sai Supraja Ravi Kumar professional portfolio",
+  "generated_at": "2026-08-09T02:35:30+00:00",
+  "source_zip_sha256": "e8837591d5c92b49f19b2383cde788bddf4bf8e870d3b56fb79fd76a31dfb49c",
+  "preserved_source_assets": {
+    "Sai-Supraja-Resume.pdf": {
+      "original": "e2cb51ae38fe516fadf9e68ce9fa9734d029887d6434b4f32f2926f986ed2dca",
+      "final": "e2cb51ae38fe516fadf9e68ce9fa9734d029887d6434b4f32f2926f986ed2dca",
+      "unchanged": true
+    },
+    "sai-supraja-profile.png": {
+      "original": "52f89d365affa1e2f8f36b11f9b14d2f82443c4bed2df4a73f0681c94f82e147",
+      "final": "52f89d365affa1e2f8f36b11f9b14d2f82443c4bed2df4a73f0681c94f82e147",
+      "unchanged": true
+    }
+  },
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 25187,
+      "sha256": "14bc790a36276bb7539412e54d98452cedfdb2b2fb69c7cffb08cb485b8800cf"
+    },
+    {
+      "path": "style.css",
+      "bytes": 23967,
+      "sha256": "7e83d02b5d03b963f2544ceaed416a7fc152e5d95519bbb28e4bb85c395e66b3"
+    },
+    {
+      "path": "script.js",
+      "bytes": 9880,
+      "sha256": "c7d1eafe223d09859664be854f0f5d7f8bffc47a05638085418b58729843e103"
+    },
+    {
+      "path": "sai-supraja-profile.png",
+      "bytes": 2877910,
+      "sha256": "52f89d365affa1e2f8f36b11f9b14d2f82443c4bed2df4a73f0681c94f82e147"
+    },
+    {
+      "path": "Sai-Supraja-Resume.pdf",
+      "bytes": 164695,
+      "sha256": "e2cb51ae38fe516fadf9e68ce9fa9734d029887d6434b4f32f2926f986ed2dca"
+    },
+    {
+      "path": "assets/favicon.svg",
+      "bytes": 649,
+      "sha256": "ef8cded18f4c31a11767548bd7e344d57174dcc23009be952bb8712bbdff8411"
+    },
+    {
+      "path": "assets/strategic-merger-visual.svg",
+      "bytes": 5294,
+      "sha256": "26c60def9d38c4590acdd3dd8e51ca1ade3bf01fd10f7d1ecdaac9775736aee6"
+    },
+    {
+      "path": "assets/genai-hr-visual.svg",
+      "bytes": 5336,
+      "sha256": "cb845e0cc5cbdbadb10e30f60318475c764d51f65793d8e012ccfca5d6461bf8"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3352,
+      "sha256": "3f40c2ecdf6d9ab2121b0385fd402fb920cf00a8a4c2f248abd77d2c078d3b8b"
+    },
+    {
+      "path": "PREWORK-RECEIPT.md",
+      "bytes": 1436,
+      "sha256": "be36c9311e34d8fc23ebbf4830ed6dcb85b688584efa5cc15d303a4bb0283f72"
+    },
+    {
+      "path": "QA-BROWSER-RESULTS.json",
+      "bytes": 8153,
+      "sha256": "923cb76d53c5d30062aadf0900ad66bcc2ba37d9a74f74aa221219a20cf2f671"
+    },
+    {
+      "path": "QA-ACCESSIBILITY-RESULTS.json",
+      "bytes": 1581,
+      "sha256": "bdb57b1d32fe82225ade0e08f5ebb101a8c8b16654451c448d4f60d1a9bed70b"
+    },
+    {
+      "path": "QA-VERIFICATION-RECEIPT.md",
+      "bytes": 4739,
+      "sha256": "f1d96b9cea88e750060014ecdf0440ed9854c2989c9f3d8221219458af0552a4"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract GenAI recruiting analytics visual</title>
+  <desc id="desc">A designed portfolio illustration of resume ingestion, semantic matching, vector retrieval, and human-reviewed candidate evaluation. It is not a screenshot of the project.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101526"/><stop offset="1" stop-color="#1d2541"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#60a5fa"/></linearGradient></defs>
+  <rect width="1200" height="720" rx="40" fill="url(#bg)"/><circle cx="1080" cy="70" r="250" fill="#7c3aed" opacity=".10"/><circle cx="80" cy="680" r="260" fill="#2563eb" opacity=".09"/>
+  <g transform="translate(70 60)"><rect width="1060" height="600" rx="28" fill="#0c1222" stroke="#e0e7ff" stroke-opacity=".13"/>
+    <g transform="translate(34 30)"><circle cx="8" cy="8" r="8" fill="#a78bfa"/><text x="30" y="14" fill="#f8fafc" font-family="Arial,sans-serif" font-size="18" font-weight="700">SEMANTIC TALENT MATCHING</text><text x="820" y="14" fill="#94a3b8" font-family="Arial,sans-serif" font-size="13">ABSTRACT PORTFOLIO VISUAL</text></g>
+    <g transform="translate(38 92)" font-family="Arial,sans-serif">
+      <rect width="260" height="430" rx="22" fill="#151d32" stroke="#fff" stroke-opacity=".09"/><text x="24" y="34" fill="#94a3b8" font-size="13">01 · INPUTS</text>
+      <g transform="translate(24 64)"><rect width="212" height="126" rx="15" fill="#0d1425"/><path d="M28 25h75v72H28z" fill="#222d49"/><path d="M42 42h48M42 56h48M42 70h36" stroke="#a78bfa" stroke-width="4" stroke-linecap="round"/><text x="120" y="52" fill="#f8fafc" font-size="14">Resume PDF</text><text x="120" y="76" fill="#94a3b8" font-size="12">Text extraction</text></g>
+      <g transform="translate(24 210)"><rect width="212" height="126" rx="15" fill="#0d1425"/><path d="M28 25h75v72H28z" fill="#222d49"/><path d="M42 42h48M42 56h48M42 70h36" stroke="#60a5fa" stroke-width="4" stroke-linecap="round"/><text x="120" y="52" fill="#f8fafc" font-size="14">Job description</text><text x="120" y="76" fill="#94a3b8" font-size="12">Role requirements</text></g>
+      <rect x="24" y="360" width="212" height="42" rx="12" fill="#202a44"/><text x="130" y="386" fill="#c4b5fd" font-size="13" text-anchor="middle">Streamlit interface</text>
+      <path d="M286 215H332" stroke="#475569" stroke-width="3"/><path d="m324 207 10 8-10 8" fill="none" stroke="#60a5fa" stroke-width="3"/>
+      <rect x="342" width="350" height="430" rx="22" fill="#151d32" stroke="#fff" stroke-opacity=".09"/><text x="366" y="34" fill="#94a3b8" font-size="13">02 · SEMANTIC PIPELINE</text>
+      <g transform="translate(366 64)"><rect width="302" height="62" rx="13" fill="#0d1425"/><circle cx="30" cy="31" r="13" fill="#a78bfa" opacity=".9"/><text x="56" y="28" fill="#f8fafc" font-size="14">Semantic chunking</text><text x="56" y="46" fill="#94a3b8" font-size="12">Stanza + LangChain</text>
+      <rect y="82" width="302" height="62" rx="13" fill="#0d1425"/><circle cx="30" cy="113" r="13" fill="#8b5cf6" opacity=".9"/><text x="56" y="110" fill="#f8fafc" font-size="14">Sentence embeddings</text><text x="56" y="128" fill="#94a3b8" font-size="12">Transformer models</text>
+      <rect y="164" width="302" height="62" rx="13" fill="#0d1425"/><circle cx="30" cy="195" r="13" fill="#60a5fa" opacity=".9"/><text x="56" y="192" fill="#f8fafc" font-size="14">Vector retrieval</text><text x="56" y="210" fill="#94a3b8" font-size="12">Qdrant similarity search</text>
+      <rect y="246" width="302" height="62" rx="13" fill="#0d1425"/><circle cx="30" cy="277" r="13" fill="#38bdf8" opacity=".9"/><text x="56" y="274" fill="#f8fafc" font-size="14">LLM evaluation</text><text x="56" y="292" fill="#94a3b8" font-size="12">Evidence-led fit analysis</text></g>
+      <path d="M716 215H762" stroke="#475569" stroke-width="3"/><path d="m754 207 10 8-10 8" fill="none" stroke="#60a5fa" stroke-width="3"/>
+      <rect x="772" width="250" height="430" rx="22" fill="#151d32" stroke="#fff" stroke-opacity=".09"/><text x="796" y="34" fill="#94a3b8" font-size="13">03 · REVIEW</text>
+      <g transform="translate(796 66)"><circle cx="101" cy="82" r="68" fill="none" stroke="#26324f" stroke-width="18"/><path d="M101 14A68 68 0 1 1 40 112" fill="none" stroke="url(#accent)" stroke-width="18" stroke-linecap="round"/><text x="101" y="78" fill="#f8fafc" font-size="30" font-weight="700" text-anchor="middle">FIT</text><text x="101" y="102" fill="#94a3b8" font-size="12" text-anchor="middle">evidence score</text>
+      <rect y="178" width="202" height="48" rx="12" fill="#0d1425"/><circle cx="23" cy="202" r="7" fill="#a78bfa"/><text x="42" y="207" fill="#e2e8f0" font-size="13">Skills alignment</text>
+      <rect y="240" width="202" height="48" rx="12" fill="#0d1425"/><circle cx="23" cy="264" r="7" fill="#60a5fa"/><text x="42" y="269" fill="#e2e8f0" font-size="13">Supporting evidence</text>
+      <rect y="302" width="202" height="48" rx="12" fill="#0d1425"/><circle cx="23" cy="326" r="7" fill="#5eead4"/><text x="42" y="331" fill="#e2e8f0" font-size="13">Human decision</text></g>
+    </g>
+  </g>
+</svg>

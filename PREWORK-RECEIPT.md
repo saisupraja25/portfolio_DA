@@ -1,0 +1,7 @@
+# Prework Receipt
+
+- **Assigned scope:** Audit and overhaul the supplied Sai Supraja resume portfolio ZIP into a recruiter-facing, deployment-ready static website. Preserve supplied resume/profile identity; do not deploy or mutate GitHub.
+- **Sources read:** Supplied ZIP and SHA-256 manifest; resume PDF; `index.html`, `style.css`, `script.js`, README, portrait; Saathi role profile, learning ledger, and 2026-08-07 self-education report; user clarifications; public GitHub profile/repositories and project README/source evidence.
+- **Lessons applied:** Convert subjective visual quality into browser-visible assertions; preserve canonical supplied assets and claims; require accessible no-JavaScript/reduced-motion fallbacks; verify links and real desktop/mobile journeys rather than claiming success from code inspection.
+- **Plan decisions changed:** Only the two publicly verifiable project repositories are featured as completed work. The four unsupported case-study cards are removed. Abstract visuals are labeled as designed illustrations, not project screenshots. JavaScript enhancements are progressive and leave content visible without script execution.
+- **Verification gate:** HTML/CSS/JS syntax and structural checks; local asset and link audit; browser journeys for navigation, theme persistence, mobile menu, animation fallback, project/resume/contact links, responsive overflow, console errors, and visual screenshots.
